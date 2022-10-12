@@ -27,4 +27,5 @@ pip install -r requirements.txt
 [steps for git cli to commit]
 1. git status (to add the modified files)
 2. git add .
-3. [Git_Commit]
+          [Git_Commit]
+1. git commit -m "This is my new files"
